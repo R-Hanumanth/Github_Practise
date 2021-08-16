@@ -32,6 +32,7 @@ simulated_patient_data %>%
  theme_minimal()
 ```
 
+
 Interactive data viz
 
 ```{r}
